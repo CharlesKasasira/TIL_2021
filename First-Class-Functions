@@ -1,5 +1,5 @@
 
-# First class functions
+# First-Class-Functions
 
 First-class functions are a programming language feature where functions are treated as values that can be assigned to variables, passed as arguments to other functions, and returned as values from functions. 
 In other words, first-class functions can be treated like any other data type such as integers, strings, or arrays.
