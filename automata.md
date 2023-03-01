@@ -4,6 +4,9 @@ Greek word automaton, which means “a moving mechanical device made in imitatio
 
 In computer science, **an automaton** (plural: automata) is a mathematical model used to describe how a system or process behaves over time. It is a theoretical construct that consists of a set of states, a set of inputs, a set of outputs, and a set of rules that define the transitions between states based on the inputs.
 
+![image](https://user-images.githubusercontent.com/59878203/222106847-2a576693-3160-4af1-aa21-17f8bc3505a0.png)
+(*Gugusse and the Automaton (Gugusse et l’Automate) 1897*)
+
 Automata are commonly used in the theory of computation to study the behavior of algorithms and formal languages. 
 
 There are many types of automata, including: 
