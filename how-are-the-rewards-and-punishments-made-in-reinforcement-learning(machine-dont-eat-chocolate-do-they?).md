@@ -1,0 +1,7 @@
+In reinforcement learning, rewards and punishments are typically defined by the developer based on the problem domain. These rewards and punishments are not actual physical rewards or punishments like humans experience, but rather they are numeric values that are assigned to certain actions taken by the machine learning model.
+
+For example, in a game like chess, a positive reward may be assigned to the model for making a move that puts the opponent's king in check, while a negative punishment may be assigned for making a move that results in the model's own king being put in check. In a robotics application, a positive reward may be assigned for the robot successfully completing a task, such as picking up an object and moving it to a desired location, while a negative punishment may be assigned for the robot dropping the object or colliding with an obstacle.
+
+The rewards and punishments are used by the reinforcement learning algorithm to adjust the model's behavior and improve its decision-making over time. The goal of the algorithm is to maximize the cumulative reward over a sequence of actions taken by the model.
+
+To answer the second question, machines don't eat chocolate 😀, but they can still learn through reinforcement learning by receiving rewards and punishments based on their actions in the environment. The rewards and punishments are simply numeric values that are used to train the model, and do not have any physical impact on the machine.
